@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "McCoy"
+  given-names: "Kevin"
+  orcid: "https://orcid.org/0000-0002-3570-6826"
+- family-names: "Marisetty"
+  given-names: "Sujay"
+- family-names: "Tan"
+  given-names: "Dominique"
+- family-names: "Jensen"
+  given-names: "Corey"
+- family-names: "Siewerdsen"
+  given-names: "Jeffrey"
+- family-names: "Peterson"
+  given-names: "Christine"
+- family-names: "Ahmad"
+  given-names: "Moiz"
+title: "Automatic vessel contrast measurement for quality control of contrast-enhanced CT"
+version: 1.0.0
+doi: TBA
+date-released: 2024-03-01
+url: "https://github.com/kmccoy3/ct_qa"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "McCoy"
+    given-names: "Kevin"
+    orcid: "https://orcid.org/0000-0002-3570-6826"
+  - family-names: "Marisetty"
+    given-names: "Sujay"
+  - family-names: "Tan"
+    given-names: "Dominique"
+  - family-names: "Jensen"
+    given-names: "Corey"
+  - family-names: "Siewerdsen"
+    given-names: "Jeffrey"
+  - family-names: "Peterson"
+    given-names: "Christine"
+  - family-names: "Ahmad"
+    given-names: "Moiz"
+  doi: "NA"
+  journal: "Medical Physics"
+  month: NA
+  start: NA # First page number
+  end: NA # Last page number
+  title: "Automatic vessel contrast measurement for quality control of contrast-enhanced CT"
+  issue: NA
+  volume: NA
+  year: 2024
